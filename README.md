@@ -75,6 +75,11 @@ The optimization process minimizes the sum of squared residuals between predicte
 
 `Python` · `Pandas` · `NumPy` · `Matplotlib` · `SciPy` · `Data Analysis` · `Data Visualization` · `Numerical Optimization` · `Model Fitting`
 
+## 📁 Project Files
+
+- `drag_coefficient_analysis.py` — Python script containing the data analysis, model fitting, optimization, and visualization workflow.
+- `drag_coefficient_data.xlsx` — Excel dataset containing the experimental data used in the analysis.
+
 ## 👤 Author
 
 **Juan Alejandro Bencosme Diaz**  
