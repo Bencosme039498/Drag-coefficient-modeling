@@ -11,7 +11,7 @@ import pandas as pd
 from scipy.optimize import minimize 
 
 
-data = pd.read_excel ("PYTHON IOPI.xlsx", sheet_name = "POROSITÉ")
+data = pd.read_excel ("drag_coefficient_data.xlsx", sheet_name = "POROSITÉ")
 
 def SumSquares0(c): 
     x = [data ["RE 10"], data ["RE 25"], data ["RE 100"], data ["RE 250"]]
